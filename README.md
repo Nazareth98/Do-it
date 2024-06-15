@@ -116,7 +116,7 @@ O frontend deve estar rodando em `http://localhost:5173`.
 
 ## Utilização
 
-Para começar a utilizar o TicketSys, siga os passos abaixo:
+Para começar a utilizar o Do it, siga os passos abaixo:
 
 ### 1. Criar um Cadastro de Administrador:
 
@@ -148,7 +148,7 @@ curl -X POST http://localhost:3000/api/admin \
 
 ### 2. Acessar a Aplicação:
 
-Após criar o cadastro de administrador, você pode acessar a aplicação TicketSys através do frontend. Abra seu navegador e vá para `http://localhost:5173`.
+Após criar o cadastro de administrador, você pode acessar a aplicação Do it através do frontend. Abra seu navegador e vá para `http://localhost:5173`.
 
 ### 3. Gerenciamento de Tickets:
 
