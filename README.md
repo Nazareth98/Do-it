@@ -2,7 +2,7 @@
 
 Do it é uma aplicação de sistema de tickets desenvolvida para gerenciar demandas de serviços de maneira organizada e eficiente. Este documento fornece instruções sobre como configurar e utilizar a aplicação.
 
-![Texto Alternativo](imagens/image1.png){:height="200px" width="400px"}
+![Texto Alternativo](imagens/image&nbsp;1.png){:height="200px" width="400px"}
 
 
 
