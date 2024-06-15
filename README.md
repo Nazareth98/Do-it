@@ -2,10 +2,9 @@
 
 Do it é uma aplicação de sistema de tickets desenvolvida para gerenciar demandas de serviços de maneira organizada e eficiente. Este documento fornece instruções sobre como configurar e utilizar a aplicação.
 
-![Texto Alternativo](imagens/image&nbsp;1.png){:height="200px" width="400px"}
-
-
-
+<h1 align="center">
+  <img alt="DesktopView" title="Aplicação em funcionamento no Desktop" src="https://github.com/Nazareth98/Do-it/blob/master/images/image%201.png" height="425" />
+</h1>
 
 ## Índice
 
