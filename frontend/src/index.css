@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: hsl(0, 0%, 100%);
+    --color-light: hsl(0, 0%, 20%);
+    --color-medium: hsl(0, 0%, 50%);
+    --color-dark: hsl(0, 0%, 5%);
+  }
+
+  * {
+    scroll-behavior: smooth;
+    transition: 0.2s;
+  }
+}
+
+.theme-member {
+  --color-primary: #7e4eed;
+  --color-light: #ab8bf3;
+  --color-medium: #371092;
+  --color-dark: #160049;
+}
+
+.theme-admin {
+  --color-primary: #0cf35d;
+  --color-light: #3ff67f;
+  --color-medium: #02732a;
+  --color-dark: #000f05;
+}
+
+.float-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+}
+
+.fade-left {
+  animation: fade-in 0.3s ease-in-out;
+}
+
+.vibrating-button {
+  animation: vibrate 0.1s infinite alternate;
+}
+
+.custom-file-upload {
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    translate: -10px;
+  }
+  to {
+    opacity: 100;
+    translate: 0;
+  }
+}
+
+@keyframes vibrate {
+  0% {
+    transform: translateX(-2px);
+  }
+  100% {
+    transform: translateX(2px);
+  }
+}
