@@ -1,4 +1,4 @@
-# Do it
+# Do it - Gerenciador de tickets
 
 Do it é uma aplicação de sistema de tickets desenvolvida para gerenciar demandas de serviços de maneira organizada e eficiente. Este documento fornece instruções sobre como configurar e utilizar a aplicação.
 
